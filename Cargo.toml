@@ -1,0 +1,7 @@
+[package]
+name = "aventofcode"
+version = "0.1.0"
+authors = ["snw <donchoa@gmail.com>"]
+edition = "2018"
+
+[dependencies]
