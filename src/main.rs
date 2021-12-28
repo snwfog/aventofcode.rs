@@ -1,5 +1,6 @@
-mod aoc01;
+mod aoc2021;
 
-fn main() {
-  aoc01::say_hi();
+pub fn main() {
+  // aoc2021::aoc2021_01::part1();
+  // aoc2021::aoc2021_01::part2();
 }
