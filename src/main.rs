@@ -12,5 +12,7 @@ pub fn main() {
   // aoc2021::aoc2021_05::part1();
   // aoc2021::aoc2021_05::part2();
   // aoc2021::aoc2021_06::part1();
-  aoc2021::aoc2021_06::part2();
+  // aoc2021::aoc2021_06::part2();
+  // aoc2021::aoc2021_07::part1();
+  aoc2021::aoc2021_07::part2();
 }
