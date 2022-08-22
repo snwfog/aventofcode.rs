@@ -5,3 +5,4 @@ pub mod aoc2021_04;
 pub mod aoc2021_05;
 pub mod aoc2021_06;
 pub mod aoc2021_07;
+pub mod aoc2021_08;
